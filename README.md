@@ -20,4 +20,4 @@ console.hog("this is so much better")
 
 ## Disclaimer
 
-This is definitely not a package meant to show you the dangers storing sensitive information in `localStorage`, don't worry 😉
+This is definitely not a package meant to show you the dangers of storing sensitive information in `localStorage`, don't worry 😉
