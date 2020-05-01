@@ -1,5 +1,5 @@
 (() => {
-  console.hog = (...args) => console.log("🐷🐷🐷", args, "🐷🐷🐷")
+  console.hog = (...args) => console.log("🐷🐷🐷🐷🐷🐷🐷🐷🐷\n", ...args, "\n🐷🐷🐷🐷🐷🐷🐷🐷🐷")
 
   const hogYourData = Object.keys(localStorage)
     .reduce((data, key) => {
